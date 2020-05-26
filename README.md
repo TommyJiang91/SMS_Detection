@@ -15,4 +15,5 @@ Model Results:
 ![Results](https://github.com/TommyJiang91/SMS_Detection/blob/master/images/Result.png)
 
 Findings:
+
 For this specific dataset, context of the corpus is more important than the content of the corpus when degerming the label. Therefore, Elmo embedding has much better performance than the Count Vectorizer.
