@@ -7,9 +7,11 @@ The data comes from Kaggle SMS Spam Collection (https://www.kaggle.com/uciml/sms
 ![EDA](https://github.com/TommyJiang91/SMS_Detection/blob/master/images/spam%26ham.png)
 
 Word Clouds for the spams:
+
 ![WordCloud](https://github.com/TommyJiang91/SMS_Detection/blob/master/images/wordc.png)
 
 Model Results:
+
 ![Results](https://github.com/TommyJiang91/SMS_Detection/blob/master/images/Result.png)
 
 Findings:
