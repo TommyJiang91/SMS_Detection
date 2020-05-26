@@ -4,6 +4,8 @@ Data from Kaggle SMS spam collection Database: https://www.kaggle.com/uciml/sms-
 
 The data comes from Kaggle SMS Spam Collection (https://www.kaggle.com/uciml/sms-spam-collection-dataset), the SMS tagged messages have been collected for SMS spam research. This labeled dataset contains 5574 messages, in which 747 are spam.
 
+(https://github.com/TommyJiang91/SMS_Detection/blob/master/Result.png)
+
 Word Clouds for the spams:
 ![Image description](https://github.com/TommyJiang91/SMS_Detection/blob/master/Result.png)
 
